@@ -17,4 +17,4 @@ I used functional React to build this project. The project is divided into multi
 
 ## Deployed version 🚀
 
-https://movies-project.netlify.com/
+https://movies-project.netlify.app/
